@@ -1,0 +1,1 @@
+Nesse programa eu utilizei a biblioteca "time" nativa da linguagem de programação Python, ela permite vários usos involvendo contagens de tempo[...] mas este é um exemplo bem simples que eu quis desenvolver.
